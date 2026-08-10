@@ -17,7 +17,7 @@ The goal of this repository is to learn how to write clean, reusable, and modula
 ## 🛠️ Built With
 * [C++]
 
-## OOP Course in Urdu
+## Recommended OOP Course in Urdu
   https://youtube.com/playlist?list=PLnd7R4Mcw3rJicg4QtoI8gFkoefyCLvEq&si=1HZahr3Jx6yTJNz4
 
 ******This description is copied from an 'AI ChatBot'******
