@@ -92,7 +92,7 @@ void checkEmploye(){
     emp1.Display();
 
     Employee emp2 = emp1;
-    emp2.setName("Taskeen Sajad");
+    emp2.setName("Sajed");
     emp2.setId(80);
     emp2.setSalary(800000);
     emp2.Display();
